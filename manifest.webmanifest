@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "The Savannah Memory Oasis",
+  "short_name": "Our Oasis",
+  "description": "A little place for a year of memories. For Cara, from Ali.",
+  "lang": "en",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#222534",
+  "theme_color": "#222534",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
